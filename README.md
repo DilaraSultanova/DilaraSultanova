@@ -9,7 +9,7 @@ Experience in Python, data analysis, automation, reporting, and document process
 - Expected Graduation: May 2027
 
 ## Technical Skills
-Python • SQL • Excel • Tableau • Salesforce • Google Document AI • Azure AI Document Intelligence
+Python • SQL • Excel • Tableau • Salesforce • Google Document AI • Azure AI Document Intelligence • OCR Automation
 
 ## Experience
 ### Data Analyst Intern, IALR
