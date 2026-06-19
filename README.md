@@ -1,6 +1,7 @@
 # Hi, I'm Dilara 👋
 
 Computer Science student at Averett University interested in data analytics, data engineering, and software development.
+Experience in Python, data analysis, automation, reporting, and document processing workflows.
 
 ## Education
 - B.S. Computer Science, Averett University
