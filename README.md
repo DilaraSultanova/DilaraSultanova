@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dilara 👋
 
-<!--
-**DilaraSultanova/DilaraSultanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Averett University interested in data analytics, data engineering, and software development.
 
-Here are some ideas to get you started:
+## Education
+- B.S. Computer Science, Averett University
+- GPA: 4.0
+- Expected Graduation: May 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+Python • SQL • Excel • Tableau • Salesforce • Google Document AI • Azure AI Document Intelligence
+
+## Experience
+- Data Analyst Intern, IALR
+- Admissions Student Ambassador, Averett University
+- Career and Technology Assistant, Averett University
+
+## Featured Project
+### Survey Automation Project
+Built an automated survey-processing workflow using Python, Google Document AI, and Azure AI Document Intelligence to automate data extraction, organization, and reporting.
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/dilarasultanova
