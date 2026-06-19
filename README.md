@@ -11,10 +11,20 @@ Computer Science student at Averett University interested in data analytics, dat
 Python • SQL • Excel • Tableau • Salesforce • Google Document AI • Azure AI Document Intelligence
 
 ## Experience
-- Data Analyst Intern, IALR
-- Admissions Student Ambassador, Averett University
-- Career and Technology Assistant, Averett University
+### Data Analyst Intern, IALR
+- Developed automation tools using Python, Google Document AI, and Azure AI Document Intelligence to process survey data.
+- Created dashboards and reports to support workforce development programs.
 
+### Student Tutor, Averett University
+- Tutor students in Statistics, Computer Science, Mathematics, and Accounting.
+- Help students strengthen problem-solving and analytical skills.
+
+### Admissions Student Ambassador, Averett University
+- Conduct campus tours and assist prospective students throughout the admissions process.
+
+### Career and Technology Assistant, Averett University
+- Provide technical support to students and faculty.
+- Assist with career events, workshops, and digital resources.
 ## Featured Project
 ### Survey Automation Project
 Built an automated survey-processing workflow using Python, Google Document AI, and Azure AI Document Intelligence to automate data extraction, organization, and reporting.
